@@ -1,0 +1,14 @@
+# CTF answer files — release at end of workshop
+ctf/ctf_questions.csv
+ctf/ctf_walkthrough.md
+ctf/STORYLINE.md
+
+# Dataset answer key and full environment manifest — instructor only
+dataset/meta/attack_timeline.json
+dataset/meta/environment_manifest.json
+
+# Presentation source file
+*.pptx
+
+# Claude Code settings
+.claude/
